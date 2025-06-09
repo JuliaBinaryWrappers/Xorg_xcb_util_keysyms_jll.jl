@@ -1,91 +1,128 @@
 [[Xorg_xcb_util_keysyms]]
 arch = "aarch64"
-git-tree-sha1 = "128ba1a9740e909cc60c10b5d5595821bad2381d"
+git-tree-sha1 = "7faf2305c6c4fe412b84727b806d9693b046d823"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_xcb_util_keysyms.download]]
-    sha256 = "16a6d143bb5854f6ec318e8c34bfb312b8f817ab41e2230bc63f120987b00a72"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_keysyms_jll.jl/releases/download/Xorg_xcb_util_keysyms-v0.4.0+1/Xorg_xcb_util_keysyms.v0.4.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "a21ee9c2202d46d4161e82cb68d8e88f487734f3badac6a60df6bd0fb7dbca9f"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_keysyms_jll.jl/releases/download/Xorg_xcb_util_keysyms-v0.4.1+0/Xorg_xcb_util_keysyms.v0.4.1.aarch64-linux-gnu.tar.gz"
 [[Xorg_xcb_util_keysyms]]
 arch = "aarch64"
-git-tree-sha1 = "6446eb200a397d1c078080069611ea86af6ce0bf"
+git-tree-sha1 = "4463c87c4c7e63d68e5a11874d54c40e384c31ed"
 libc = "musl"
 os = "linux"
 
     [[Xorg_xcb_util_keysyms.download]]
-    sha256 = "c9ff5b23b9c1e6de2fbb7a3cc77aa42fb8ce4046db4a700b0e3ec4b82fa150f2"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_keysyms_jll.jl/releases/download/Xorg_xcb_util_keysyms-v0.4.0+1/Xorg_xcb_util_keysyms.v0.4.0.aarch64-linux-musl.tar.gz"
+    sha256 = "5c24049f54c17d626d4ced336366d0078fdfe992a880b771c87a4d6dfe3754f4"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_keysyms_jll.jl/releases/download/Xorg_xcb_util_keysyms-v0.4.1+0/Xorg_xcb_util_keysyms.v0.4.1.aarch64-linux-musl.tar.gz"
 [[Xorg_xcb_util_keysyms]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "ef2ff4fab821726a6d32be3639a71f6afc0486d0"
-libc = "glibc"
-os = "linux"
-
-    [[Xorg_xcb_util_keysyms.download]]
-    sha256 = "3421a1e424da9790c8eb55d1ba48d587ba7090358529f402d2d0673cffed3241"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_keysyms_jll.jl/releases/download/Xorg_xcb_util_keysyms-v0.4.0+1/Xorg_xcb_util_keysyms.v0.4.0.armv7l-linux-gnueabihf.tar.gz"
-[[Xorg_xcb_util_keysyms]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "535eeb0324574ea22680eb0ca77d19a57fcf2be3"
-libc = "musl"
-os = "linux"
-
-    [[Xorg_xcb_util_keysyms.download]]
-    sha256 = "bd62676b0ac1aff3b650996b3b4d5f437f8a43578a35f99fc7a1a44d7b0ae654"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_keysyms_jll.jl/releases/download/Xorg_xcb_util_keysyms-v0.4.0+1/Xorg_xcb_util_keysyms.v0.4.0.armv7l-linux-musleabihf.tar.gz"
-[[Xorg_xcb_util_keysyms]]
-arch = "i686"
-git-tree-sha1 = "10e915f21317f345e867c12883f826eb39a94c8c"
-libc = "glibc"
-os = "linux"
-
-    [[Xorg_xcb_util_keysyms.download]]
-    sha256 = "1fd981111c256c74d53016a9fd99283dec612e77c67e676b8c26f881926e850d"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_keysyms_jll.jl/releases/download/Xorg_xcb_util_keysyms-v0.4.0+1/Xorg_xcb_util_keysyms.v0.4.0.i686-linux-gnu.tar.gz"
-[[Xorg_xcb_util_keysyms]]
-arch = "i686"
-git-tree-sha1 = "a4977d469c89922099118a80197ce02c7ed458ad"
-libc = "musl"
-os = "linux"
-
-    [[Xorg_xcb_util_keysyms.download]]
-    sha256 = "9ceac64db11a08e06038ab701979524fd321447052fc7b2923dae49c2ee762db"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_keysyms_jll.jl/releases/download/Xorg_xcb_util_keysyms-v0.4.0+1/Xorg_xcb_util_keysyms.v0.4.0.i686-linux-musl.tar.gz"
-[[Xorg_xcb_util_keysyms]]
-arch = "powerpc64le"
-git-tree-sha1 = "46de715902541dbe53db2d99fd0f5f97b8e7932f"
-libc = "glibc"
-os = "linux"
-
-    [[Xorg_xcb_util_keysyms.download]]
-    sha256 = "f0c372a74dfe73e7bf25bb1bf6befa075811377e5649b841ba9a13aacafd54fd"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_keysyms_jll.jl/releases/download/Xorg_xcb_util_keysyms-v0.4.0+1/Xorg_xcb_util_keysyms.v0.4.0.powerpc64le-linux-gnu.tar.gz"
-[[Xorg_xcb_util_keysyms]]
-arch = "x86_64"
-git-tree-sha1 = "79cc5446ced978de84b6e673e01da0ebfdd6e4a5"
-libc = "glibc"
-os = "linux"
-
-    [[Xorg_xcb_util_keysyms.download]]
-    sha256 = "2107c88a7ca42b4c8dec4c3d10dbb0d9c8e211a23e9549b6e99c76885ed164a7"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_keysyms_jll.jl/releases/download/Xorg_xcb_util_keysyms-v0.4.0+1/Xorg_xcb_util_keysyms.v0.4.0.x86_64-linux-gnu.tar.gz"
-[[Xorg_xcb_util_keysyms]]
-arch = "x86_64"
-git-tree-sha1 = "b93ca4f726526f1e49ccabd98ba1c5dfe84d7bf7"
-libc = "musl"
-os = "linux"
-
-    [[Xorg_xcb_util_keysyms.download]]
-    sha256 = "7cbc795a414e535509b6934bd6f903cb12e1ade420275a9a09db17f6abdb1bfb"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_keysyms_jll.jl/releases/download/Xorg_xcb_util_keysyms-v0.4.0+1/Xorg_xcb_util_keysyms.v0.4.0.x86_64-linux-musl.tar.gz"
-[[Xorg_xcb_util_keysyms]]
-arch = "x86_64"
-git-tree-sha1 = "138ca8ca3e1e01b69094726267c020561e49bdfd"
+arch = "aarch64"
+git-tree-sha1 = "335fe070146298adadac0c9641223f0c41542a29"
 os = "freebsd"
 
     [[Xorg_xcb_util_keysyms.download]]
-    sha256 = "03aff197489297cc12c2bd85a9fed974b86b30e2b220e6bc17a69ce52616a727"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_keysyms_jll.jl/releases/download/Xorg_xcb_util_keysyms-v0.4.0+1/Xorg_xcb_util_keysyms.v0.4.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "8d2091dcbfd6c18052d30cb20664a727082836e021fad193a188b6bd3023a8b6"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_keysyms_jll.jl/releases/download/Xorg_xcb_util_keysyms-v0.4.1+0/Xorg_xcb_util_keysyms.v0.4.1.aarch64-unknown-freebsd.tar.gz"
+[[Xorg_xcb_util_keysyms]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "0eb63c84d16a3b09a68936d0b84a5dded6f70a68"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_xcb_util_keysyms.download]]
+    sha256 = "9a8d3ebc6be4a7ca34d036139e3791a7eb4057a1b89448c12245aae32d8bfe64"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_keysyms_jll.jl/releases/download/Xorg_xcb_util_keysyms-v0.4.1+0/Xorg_xcb_util_keysyms.v0.4.1.armv6l-linux-gnueabihf.tar.gz"
+[[Xorg_xcb_util_keysyms]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "99cdf80d95ef4fa568372474566a97dec4e5b44d"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_xcb_util_keysyms.download]]
+    sha256 = "4536c90a66ab3f426c9aa4930b5f37ee1847813361b1deab233b6993cabd7db6"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_keysyms_jll.jl/releases/download/Xorg_xcb_util_keysyms-v0.4.1+0/Xorg_xcb_util_keysyms.v0.4.1.armv6l-linux-musleabihf.tar.gz"
+[[Xorg_xcb_util_keysyms]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "859bdd17905b26261ab8e2f5d3a02ae092daaaec"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_xcb_util_keysyms.download]]
+    sha256 = "aae9a1c54061ae8d93278c838631234965ebc2c11e30c1983ffbbed8cdd1ae80"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_keysyms_jll.jl/releases/download/Xorg_xcb_util_keysyms-v0.4.1+0/Xorg_xcb_util_keysyms.v0.4.1.armv7l-linux-gnueabihf.tar.gz"
+[[Xorg_xcb_util_keysyms]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "7680d85a88da178d6267c777ad1e3a4852d2e9f1"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_xcb_util_keysyms.download]]
+    sha256 = "b105ea1abaa9eae1cbd3a07e8a0e6d00ed53cea84de4ea3c435634f137507bb2"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_keysyms_jll.jl/releases/download/Xorg_xcb_util_keysyms-v0.4.1+0/Xorg_xcb_util_keysyms.v0.4.1.armv7l-linux-musleabihf.tar.gz"
+[[Xorg_xcb_util_keysyms]]
+arch = "i686"
+git-tree-sha1 = "4e3f2a3e63997422763bb388227197923ed2497f"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_xcb_util_keysyms.download]]
+    sha256 = "3fb1646036a83ad9776912d915a7cc210d076d6192702d7042bb0e33916841e8"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_keysyms_jll.jl/releases/download/Xorg_xcb_util_keysyms-v0.4.1+0/Xorg_xcb_util_keysyms.v0.4.1.i686-linux-gnu.tar.gz"
+[[Xorg_xcb_util_keysyms]]
+arch = "i686"
+git-tree-sha1 = "e64ed82c3f5b375ffcc8b45d6d648a723e85d0d4"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_xcb_util_keysyms.download]]
+    sha256 = "82ee755a610ffa35b94aaea9615c9397e44caa016937ce5e38391f512057affa"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_keysyms_jll.jl/releases/download/Xorg_xcb_util_keysyms-v0.4.1+0/Xorg_xcb_util_keysyms.v0.4.1.i686-linux-musl.tar.gz"
+[[Xorg_xcb_util_keysyms]]
+arch = "powerpc64le"
+git-tree-sha1 = "b2096f6301c36c9b91eec6a69f642ec2acf59e85"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_xcb_util_keysyms.download]]
+    sha256 = "46e6c391adffa42869ea80e2054cfa3b2cf6432d48d21a2c976073010984336a"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_keysyms_jll.jl/releases/download/Xorg_xcb_util_keysyms-v0.4.1+0/Xorg_xcb_util_keysyms.v0.4.1.powerpc64le-linux-gnu.tar.gz"
+[[Xorg_xcb_util_keysyms]]
+arch = "riscv64"
+git-tree-sha1 = "0d3a292dece6826fe4b3badf83f8e9a052058a71"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_xcb_util_keysyms.download]]
+    sha256 = "adc9831f3ebd14c16407a02861207a29f255df1576da7a496608feecb5861569"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_keysyms_jll.jl/releases/download/Xorg_xcb_util_keysyms-v0.4.1+0/Xorg_xcb_util_keysyms.v0.4.1.riscv64-linux-gnu.tar.gz"
+[[Xorg_xcb_util_keysyms]]
+arch = "x86_64"
+git-tree-sha1 = "ff5b744ee71be5a60014421e393f79262922d22c"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_xcb_util_keysyms.download]]
+    sha256 = "5095945a4a08b5b7a912fe03dad3e15136a3353fe84eec716a73b5562f6fe600"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_keysyms_jll.jl/releases/download/Xorg_xcb_util_keysyms-v0.4.1+0/Xorg_xcb_util_keysyms.v0.4.1.x86_64-linux-gnu.tar.gz"
+[[Xorg_xcb_util_keysyms]]
+arch = "x86_64"
+git-tree-sha1 = "66bc673e1c3aa005d7390a17e6aa3307dfc9caf4"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_xcb_util_keysyms.download]]
+    sha256 = "fe9083277e68ccb72bff3fdfa97196b6c56d192ec166e4e95b0c40db7f2f2d71"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_keysyms_jll.jl/releases/download/Xorg_xcb_util_keysyms-v0.4.1+0/Xorg_xcb_util_keysyms.v0.4.1.x86_64-linux-musl.tar.gz"
+[[Xorg_xcb_util_keysyms]]
+arch = "x86_64"
+git-tree-sha1 = "7ec13e540092a97680a9456ed406211e54ffcba1"
+os = "freebsd"
+
+    [[Xorg_xcb_util_keysyms.download]]
+    sha256 = "62c5b8406ffb83ca8b208c9c5c24cd0a5d206320aed2a2edf02ee10807521ef8"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_keysyms_jll.jl/releases/download/Xorg_xcb_util_keysyms-v0.4.1+0/Xorg_xcb_util_keysyms.v0.4.1.x86_64-unknown-freebsd.tar.gz"
